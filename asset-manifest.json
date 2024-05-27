@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zippyy_tracking1/static/css/main.f206312a.css",
+    "main.js": "/Zippyy_tracking1/static/js/main.d2d5c794.js",
+    "static/js/453.917491d9.chunk.js": "/Zippyy_tracking1/static/js/453.917491d9.chunk.js",
+    "static/media/Rectangle 6319.png": "/Zippyy_tracking1/static/media/Rectangle 6319.ce52e16939411058763b.png",
+    "index.html": "/Zippyy_tracking1/index.html",
+    "main.f206312a.css.map": "/Zippyy_tracking1/static/css/main.f206312a.css.map",
+    "main.d2d5c794.js.map": "/Zippyy_tracking1/static/js/main.d2d5c794.js.map",
+    "453.917491d9.chunk.js.map": "/Zippyy_tracking1/static/js/453.917491d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f206312a.css",
+    "static/js/main.d2d5c794.js"
+  ]
+}
