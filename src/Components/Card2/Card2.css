@@ -1,0 +1,48 @@
+.Card-container {
+    position: relative;
+    border-radius: 6px;
+    border: 1px solid #F5F8F8;
+    display: flex;
+    flex-direction: row;
+    width: 572px;
+    padding: 10px;
+    height: 60px;
+    margin: 10px;
+    text-align: left;
+    justify-content: space-between;
+}
+
+.card-text {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translateY(-50%);
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    color: #5F5A6B;
+}
+
+.card-des {
+    position: absolute;
+    top: 50%;
+    left: 214px;
+    transform: translateY(-50%);
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #D54029;
+}
+
+.button-container {
+    position: absolute;
+    top: 50%;
+    left: 450px;
+    transform: translateY(-50%);
+}
+
+.card-text span {
+    font-weight: 400;
+}
